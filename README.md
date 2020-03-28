@@ -1,1 +1,2 @@
-# cocos-creator-3d-model-animation
+# hello-world
+Hello world new project template.
